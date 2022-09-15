@@ -1,1 +1,2 @@
 An expense tracker application to demonstrate AppIntents framework. Check out the Medium article for more details:
+https://medium.com/@coban.sadik/the-appintents-framework-a-new-way-to-hook-up-apps-functionality-to-the-system-96279feb4cce
